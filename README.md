@@ -10,11 +10,11 @@
 
   ##
   <!-- About me, or who? -->
-  <h3>```$> whoami```</h3>
+  <h3 align="center">```$> whoami```</h3>
   <div align="center">
     <p>Hey, I'm a self-taught developer who wrote his first line of code @ 14-years-old.</p>
     <ul>
-      <li>bruh</li>
+      <li align="center">bruh</li>
     </ul>
   </div>
   ##
