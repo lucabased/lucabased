@@ -1,9 +1,11 @@
 ### Hi there 👋
+<!-- Whoah! You have just found an amazing easter egg -- congrats!  -->
 <span align="center>
 
 <h3 align="center">Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,ts,js,nodejs,npm,discordjs,svelte,unity,idea,visualstudio,vscode,postman,stackoverflow,git,discord&perline=6" />
+  <!-- https://skillicons.dev/ -->
+  <img src="https://skillicons.dev/icons?i=linux,py,rust,cs,ts,js,nodejs,npm,discordjs,&perline=6" />
 </div>
 </span>
 <!--
