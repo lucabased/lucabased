@@ -1,6 +1,6 @@
 ##
 <!-- Whoah! You have just found an amazing easter egg -- congrats!  -->
-
+<!-- Ref. => https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
   <!-- Quote -->
   <div>
     <h4 align="center"><em>“Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.” - Alan Turing.</em>"
@@ -10,7 +10,7 @@
 
   ##
   <!-- About me, or who? -->
-  <h3>´$> whoami´</h3>
+  <h3>```$> whoami```</h3>
   <div align="center">
     <p>Hey, I'm a self-taught developer who wrote his first line of code @ 14-years-old.</p>
     <ul>
