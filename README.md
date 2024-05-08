@@ -5,7 +5,7 @@
 <h3 align="center">Tools</h3>
 <div align="center">
   <!-- https://skillicons.dev/ -->
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,rust,ts,js,nodejs,npm,neovim,git,jenkins,postman,aws,tailwind,photoshop,postgres,discordjs,&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,cloudflare,py,rust,ts,js,nodejs,npm,neovim,git,jenkins,postman,tailwind,photoshop,postgres,discordjs,&perline=6" />
 </div>
 </span>
 <!--
