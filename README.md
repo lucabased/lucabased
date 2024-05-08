@@ -1,5 +1,11 @@
 ### Hi there 👋
+<span align="center>
 
+<h3 align="center">Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,ts,js,nodejs,npm,discordjs,svelte,unity,idea,visualstudio,vscode,postman,stackoverflow,git,discord&perline=6" />
+</div>
+</span>
 <!--
 **lucabased/lucabased** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
