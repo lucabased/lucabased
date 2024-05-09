@@ -3,7 +3,7 @@
 <!-- Ref. => https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
   <!-- Quote -->
 <div align="center">
-  <h4 align="center"><em>“Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.” - Alan Turing.</em>"
+  <h4 align="center"><em>“Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.” - Alan Turing (fictional; "The Imitation Game")</em>
     <span align="center"></span>
   </h4>
 
