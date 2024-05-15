@@ -6,15 +6,6 @@
   <h4 align="center"><em>“Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.” - Alan Turing (fictional; "The Imitation Game")</em>
     <span align="center"></span>
   </h4>
-
-
-  ##
-  <!-- About me, or who? -->
-  <h3 align="center">whoami</h3>
-    <p>Hey, I'm a self-taught developer who wrote his first line of code @ 14-years-old.</p>
-    <ul>
-      <li>bruh</li>
-    </ul>
     
   ##
   <!-- Skillset -->
