@@ -8,8 +8,9 @@
   <!-- Skillset -->
   Tools I've used
     <!-- https://skillicons.dev/ -->
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,kali,docker,cloudflare,py,rust,ts,js,nodejs,npm,neovim,git,jenkins,postman,tailwind,photoshop,postgres,discordjs,&perline=6" />
-  
+    <div>
+      <img src="https://skillicons.dev/icons?i=linux,bash,aws,kali,docker,cloudflare,py,rust,ts,js,nodejs,npm,neovim,git,jenkins,postman,tailwind,photoshop,postgres,discordjs,&perline=6"/>
+    </div>
   
   ##
 </div>
