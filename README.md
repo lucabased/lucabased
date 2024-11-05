@@ -3,13 +3,13 @@
 <!-- Ref. => https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
   <!-- Quote -->
 <div align="center">
-
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
 <img src="https://github.com/lucabased/lucabased/blob/main/banner1.gif?raw=true" border="0" style="width:100%;"/>
 
 ### ✨ Welcome to my GitHub profile!
 
 ##
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
+
 
 ### 🔨 Tools I've used
 
