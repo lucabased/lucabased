@@ -2,7 +2,7 @@
 <!-- Whoah! You have just found an amazing easter egg -- congrats!  -->
 <!-- Ref. => https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
   <!-- Quote -->
-<div align="center">
+
 
 <img src="https://github.com/lucabased/lucabased/blob/main/banner1.gif?raw=true" border="0" style="width:100%;"/>
 
@@ -29,4 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabased&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
 </p>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" border="0" alt="animated-line-image-0446" /></a>
-</div>
