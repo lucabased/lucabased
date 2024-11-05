@@ -4,7 +4,7 @@
   <!-- Quote -->
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/fb/63/95/fb63956b206147b396a93a5174bd15c7.gif" border="0"/>
+  <img src="https://github.com/lucabased/lucabased/blob/main/banner1.gif?raw=true" border="0"/>
 
   
 ### 🔨 Tools I've used
