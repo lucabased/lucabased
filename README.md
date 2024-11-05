@@ -11,6 +11,12 @@
     <div>
       <img src="https://skillicons.dev/icons?i=linux,bash,aws,kali,docker,cloudflare,py,rust,ts,js,nodejs,npm,neovim,git,jenkins,postman,tailwind,photoshop,postgres,discordjs,&perline=6"/>
     </div>
+
+  Stats
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucabased)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
   ##
 </div>
