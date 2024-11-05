@@ -6,7 +6,10 @@
 
   <img src="https://github.com/lucabased/lucabased/blob/main/banner1.gif?raw=true" border="0" style="width:100%;"/>
 
-  
+### ✨ Welcome to my GitHub profile!
+
+##
+
 ### 🔨 Tools I've used
 
   <!-- https://skillicons.dev/ -->
