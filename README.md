@@ -20,7 +20,9 @@
 
 
 ### 📊 GitHub Stats:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3998532" style='border:none;'></iframe>
+<div align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3998532" style='border:none;'></iframe>
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucabased&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucabased&theme=tokyonight" alt="GitHub Streak" width="400"/>
